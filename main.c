@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#define START_SYMBOL ' '
-#define END_SYMBOL '~'
+#define START_SYMBOL 'a'
+#define END_SYMBOL 'z'
 
 int s_gets(char* str, int n)
 {
